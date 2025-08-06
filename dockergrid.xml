@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CompleteSuite">
+    
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager" />
+    </listeners>
+
+    <!-- First test group -->
+    <test name="docker-running">
+
+        <parameter name="os" value="Linux"/>
+        <parameter name="browser" value="firefox" />
+
+        <classes>
+            <!--<class name="testCases.RegistrationTest"/>
+            <class name="testCases.LoginDataDrivenTest" />-->
+            <class name="testCases.LoginTest" />
+        </classes>
+    </test>
+
+</suite>

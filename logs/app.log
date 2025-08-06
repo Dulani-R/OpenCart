@@ -1,0 +1,20 @@
+2025-07-22 12:30:17 [main] INFO  testCases.RegistrationTest - ***************Registration Test Logs************
+2025-07-22 12:30:17 [main] INFO  testCases.RegistrationTest - Account button click
+2025-07-22 12:30:17 [main] INFO  testCases.RegistrationTest - Register button click
+2025-07-22 12:30:17 [main] INFO  testCases.RegistrationTest - Fill first name
+2025-07-22 12:30:17 [main] INFO  testCases.RegistrationTest - Fill second name
+2025-07-22 12:30:17 [main] INFO  testCases.RegistrationTest - Fill mail
+2025-07-22 12:30:17 [main] INFO  testCases.RegistrationTest - Fill password
+2025-07-22 12:30:20 [main] INFO  testCases.RegistrationTest - Drag toggle
+2025-07-22 12:30:20 [main] INFO  testCases.RegistrationTest - Click button
+2025-07-22 12:30:20 [main] INFO  testCases.RegistrationTest - Validate success message
+2025-07-22 12:38:00 [main] INFO  testCases.RegistrationTest - ***************Registration Test Logs************
+2025-07-22 12:38:00 [main] INFO  testCases.RegistrationTest - Account button click
+2025-07-22 12:38:00 [main] INFO  testCases.RegistrationTest - Register button click
+2025-07-22 12:38:00 [main] INFO  testCases.RegistrationTest - Fill first name
+2025-07-22 12:38:01 [main] INFO  testCases.RegistrationTest - Fill second name
+2025-07-22 12:38:01 [main] INFO  testCases.RegistrationTest - Fill mail
+2025-07-22 12:38:01 [main] INFO  testCases.RegistrationTest - Fill password
+2025-07-22 12:38:03 [main] INFO  testCases.RegistrationTest - Drag toggle
+2025-07-22 12:38:03 [main] INFO  testCases.RegistrationTest - Click button
+2025-07-22 12:38:03 [main] INFO  testCases.RegistrationTest - Validate success message
